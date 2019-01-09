@@ -1,0 +1,12 @@
+[package]
+name = "conrod-experiments-rs"
+version = "0.1.0"
+authors = ["Matthieu Pizenberg <matthieu.pizenberg@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+conrod_core = "0.62"
+conrod_glium = "0.62"
+conrod_winit = "0.62"
+glium = "0.23"
+image = "0.20"
